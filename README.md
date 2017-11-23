@@ -3,8 +3,6 @@
 
 # geojson.io
 
-### Follow [@geojsonio](https://twitter.com/geojsonio) to keep up with geojson.io's evolution
-
 ![](http://i.cloudup.com/kz3BAF7Hnx.png)
 
 A fast, simple editor for map data. Read more on [Mapbox](http://www.mapbox.com/blog/geojsonio-announce/),
